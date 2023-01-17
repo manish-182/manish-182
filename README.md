@@ -12,9 +12,9 @@ I am an ACCA Member, with a solid background in accounting and finance. I am als
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/famous-brand-apps/100/_-04-512.png" alt="Excel" width="40" height="40"/> </a> 
-  </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="sqlserver" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="50" height="50"/> </a> 
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/famous-brand-apps/100/_-04-512.png" alt="Excel" width="50" height="50"/> </a> 
+  </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="sqlserver" width="50" height="50"/> </a>
   
 <!---
 manish-182/manish-182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
